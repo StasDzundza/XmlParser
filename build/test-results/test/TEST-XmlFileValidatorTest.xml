@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="XmlFileValidatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-11-15T21:26:32" hostname="DESKTOP-2QK2ARG" time="0.15">
+  <properties/>
+  <testcase name="validXMLvalidation" classname="XmlFileValidatorTest" time="0.116"/>
+  <testcase name="invalidXMLvalidation" classname="XmlFileValidatorTest" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[лист. 15, 2019 11:26:32 ПП Parser.XmlFileValidator validateXMLDocument
+INFO: Validation error : cvc-enumeration-valid: Value 'Test' is not facet-valid with respect to enumeration '[Magazine, Newspaper, Booklet]'. It must be a value from the enumeration.
+]]></system-err>
+</testsuite>

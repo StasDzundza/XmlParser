@@ -1,0 +1,32 @@
+<Periodicals>
+    <Paper>
+	<title>Times</title>
+	<type>Magazine</type>
+	<monthly>true</monthly>
+        <Chars>
+	    <colored>true</colored>
+            <size>100</size>
+            <glossy>true</glossy>
+        </Chars>
+    </Paper>
+    <Paper>
+	<title>Kyiv Live</title>
+	<type>Newspaper</type>
+	<monthly>false</monthly>
+        <Chars>
+	    <colored>true</colored>
+            <size>15</size>
+            <glossy>false</glossy>
+        </Chars>
+    </Paper>
+    <Paper>
+	<title>Kalush Visnyk</title>
+	<type>Booklet</type>
+	<monthly>false</monthly>
+        <Chars>
+	    <colored>false</colored>
+            <size>3</size>
+            <glossy>false</glossy>
+        </Chars>
+    </Paper>
+</Periodicals>
